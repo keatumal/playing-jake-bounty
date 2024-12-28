@@ -1,0 +1,21 @@
+# Taylor Swift & The Street Singer in Thailand
+
+I was texting with a great friend of mine the other day. He was encouraging me to do more marketing for my blog. I explained that I appreciated his advice but that:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81bf3bb9-df7b-4664-8749-ba754f3098ce_749x261.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81bf3bb9-df7b-4664-8749-ba754f3098ce_749x261.jpeg)
+
+My friend doubled down to explain how he thought I could increase my reach and I responded:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd6ddf2c-a3e7-45d1-b17e-42346fca9c0a_750x775.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd6ddf2c-a3e7-45d1-b17e-42346fca9c0a_750x775.jpeg)
+
+Finally, we arrived at the crux of the matter:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38b3fb04-60eb-47bc-b6d0-1314cc1ce5fb_750x676.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38b3fb04-60eb-47bc-b6d0-1314cc1ce5fb_750x676.jpeg)
+
+People who have reached out to me via email or direct messaged me on Twitter know that most of what I do in regards to the blog and podcast is intentional. That is to say, it is likely that I have deliberately (and often extensively) considered many more aspects than one might assume. Just a few examples... There is a reason there are no comments. There is a reason there is no menu. There is a reason I don't use Substack. There is a reason for the blue dot. There is a reason I do not use clickbait titles. There is a reason I do not do substantial pre- or post- calls with my podcast guests (great respect for and appreciation of their time). There is a reason my podcast has no intro or outro (great respect for and appreciation of yours). There is a reason I don't share my last name. There is a reason I don't have an about page. There is a reason I don't show my face. In fact, there are many reasons for many of these things.
+
+I am conscious of the fact that all of my choices come with certain trade-offs. My text conversation with my friend, the contrast between Taylor Swift and The Street Singer in Thailand, that all boiled down to the trade-off between popularity and creative liberty. The former translates to money and fame while the latter just is what it is -- freedom. I believe that if I continue to write about exactly whatever it is that I am inspired to write about, there exists a certain subset of people in this world who will love it exactly the way it is. Of course, I haven't found too many yet, but I have found a few.
+
+I don't want to create certain content because I know it will be better received. I don't want to spend time on marketing, which is defined as "the action or business of promoting and selling products or services". I don't want to sell you on my content. I don't want to use any tricks. I want people to find and consume my content based on the merit of my content alone. I want that content to be honest and all mine. Perhaps that is naïve, but perhaps naïveté is the way to do anything different. I think where I differ from a lot of people is not only in the fact that I have little interest in being ordinarily successful, but that I also have little interest in becoming extraordinarily successful by means that are ordinary among extraordinarily successful people.
+
+Now don't get me wrong, I don't want to be singing on the streets of Thailand either, but I believe that with patience and persistence I can have the best of both worlds. In closing, I will leave you with a classic song which does a great job of communicating in a sense what I am trying to say. It is a song you may have heard by a singer you may know well. It is _My Way_ by Frank Sinatra.

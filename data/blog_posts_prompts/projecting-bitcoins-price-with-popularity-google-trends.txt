@@ -1,0 +1,1 @@
+Write a blog post analyzing the correlation between Bitcoin's price and Google Trends data, and project future price trends based on popularity metrics.

@@ -1,0 +1,31 @@
+# "Bitcoin Simplified" 
+
+Today, we cover the basics of Bitcoin. I recommend this post to anyone who wants to better understand the fundamentals behind this financial asset.
+
+### What is Bitcoin?
+
+Bitcoin is a digital currency designed for making peer-to-peer transactions online. It is secured by a cryptographic system known as a blockchain, which creates a shared, immutable record of all transactions. Created in 2009 by a pseudonymous entity known as Satoshi Nakamoto, Bitcoin was the first cryptocurrency and is by far the most famous. Despite its age, Bitcoin is still quite revolutionary. It is the first form of digital money that operates in a truly decentralized manner. Unlike PayPal, which makes transaction records available to the government, Bitcoin does not give transaction records to anyone. Unlike dollars, which are located in banks controlled by governments and financial institutions, Bitcoin safely resides in online wallets held by its users. Unlike the cryptocurrency Ethereum, which is not a closed monetary system, Bitcoin is its own paradigm in which generic tokens are traded to power the Ethereum blockchain. 
+
+Bitcoin has a fixed supply of just over 21 million coins, which will eventually be reached around the year 2140. Each new coin is mined through a competitive network of computers completing complex calculations. As time goes on, the reward for mining the next block of transactions is lowered. In total, the reward was approximately 50 coins back in 2009 but has dropped to around 6.25. Approximately every four years, the rate at which new coins are generated falls by half. Around the year 2024, the reward will drop to around 3.25 coins. This design limits the total supply to approximately 21 million coins. 
+
+From a monetary policy perspective, bitcoin behaves more like gold than the dollar. Since the dollar has an ever-increasing supply, it becomes less scarce over time. Bitcoin has a finite supply and is, therefore, a scarce form of money. With just over 19 million already in circulation, Bitcoin has become one of the hardest forms of money known to man. Bitcoin is gold-like not only in its limited supply, but also in the challenges it presents for mining.
+
+### Why Has Bitcoin Been So Successful?
+
+Bitcoin and other cryptocurrencies have received a lot of criticism regarding their values and their environmental impact. Most of these critiques focus on the energy consumption associated with bitcoin mining. 
+
+To understand its impact, it is helpful to put the energy consumption of bitcoin mining in perspective to other forms. Bitcoin is generally recognized as the world’s premier store of value due to its impressive security. Every computer in the Bitcoin network helps to guarantee its security regardless of whether or not a user is actually using bitcoin to transact. When comparing its necessary energy use to that of virtually any legitimate bank, the vast majority of which do not even have sustainable sources of energy, and Bitcoin's position as the leading store of value (above gold), allows one to value Bitcoin not so much purely based on energy consumption, but on the inherent value Bitcoin has as a gold-like digital currency. 
+
+Bitcoin represents the transition from failing monetary systems like the current dollar and its ever-increasing supply in countries around the world, to a new growing class of assets that store value more effectively than those systems. Bitcoin represents the first digital money that meets this standard, and it continues to grow in a macroeconomic environment heavily influenced by massive government spending, overstretched monetary policy and rising inflation.  In the past decade alone, the U.S. dollar’s M1 money supply has expanded more than threefold. 
+
+According to the Oxford Dictionary of Economics, inflation is “a sustained increase in the general level of prices,” implying a “decrease in the purchasing power of money.” This definition would be consistent with inflation’s recent behavior, while inflation writ large in dollar terms has had the secondary effect of boosting the price of nearly all financial assets. Over the last decade, monetary inflation in the United States has exceeded 25% of the overall U.S. economy. In 2019, the economy added over one trillion dollars in M1 money supply. By November 2020, it had reached a staggering $19,200,000. At the start of 2022, it was around $6 trillion.
+
+Nobody knows when the economy may begin to reflect these realities. Bitcoin has only been around for a third as long as the last ten years have lasted. As bitcoin continues to grow and to outperform economies like the dollar in the years to come, it’s value may continue to grow at or above the rate at which it has grown thus far. 
+
+To clarify, I do not have a target price or timing for bitcoin. I do, however, have reasonable expectations of outperformance in the coming years centered around the reasons laid out here. 
+
+At today's prices, $20,000 or so, bitcoin has a market capitalization of just over $380 billion. Given its current trading volumes, it would likely be able to trade 50% of its current market capitalization without triggering a default in the larger financial system. In total, bitcoin's market capitalization would not be disproportionate to some of its competitors’ total market capitalizations in either of the other blockchain technologies: Ethereum, Solana, Celo, and even LiteCoin. 
+
+It would be unlikely for these various digital currencies to work out as flexibly or conveniently as bitcoin in what the travel application “The Flight Deal” has referred to, “the search for new, hard, deflationary sound money.” 
+
+I find it unlikely that any competing cryptocurrency that is not currency will gain tremendous traction in the consumer-facing office itself, only to find that bitcoin, the country’s last algorithmically comparable trading currency will outpace all of them for good. In the next week, I am excited to see where virus threats like the flight path from Europe take broadband. 

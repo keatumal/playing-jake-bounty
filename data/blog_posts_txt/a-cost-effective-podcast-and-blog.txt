@@ -1,0 +1,43 @@
+# A Cost-Effective Podcast and Blog
+
+Yesterday, a soon-to-debut podcaster who has been both publicly and privately supportive of my podcast asked me, among other questions, what I use for a hosting platform. I answered the question and after some back and forth ended the conversation by writing, “amazing how much of this can be done for free / cheap”.
+
+Recalling that back and forth this morning, I felt inspired to share the platforms (and their associated monthly costs) that allow me to do what I do at an extremely low cost.
+
+Services:
+
+Zoom, Pro Plan ($8.75 / month) – for recording podcasts
+
+G Suite ($6.00 / month) – for the email address, jake@blogofjake.com
+
+WordPress, Personal Plan ($4.00 / month) – for both websites for sharing blogs and podcasts
+
+Blog of Jake’s Blog on Tape Narration (Free) – for audio recordings of blogs
+
+Anchor (Free) – for hosting and distributing podcasts and audio-blogs on Apple, Spotify, etc.
+
+Garageband (Free) – for editing podcasts
+
+Notes (Free) – for taking notes (blog ideas, podcast prep, edits, notes, etc.)
+
+Snippet (Free) – for podcast transcripts and clip creation (testing)
+
+Twitter (Free) – for sharing content (automatic when published)
+
+LinkedIn (Free) – for sharing content (automatic when published)
+
+Superpeer (Free) – for facilitating paid calls
+
+Patreon (Free) – for accepting donations from patrons
+
+Domains:
+
+podofjake.com ($1.50 / month)
+
+blogofjake.com ($1.50 / month)
+
+I have not included the costs of my MacBook Air, iPhone SE, WiFi, Superhuman (email), or Microsoft Office because, although I use all of these for my blog and podcast, I would be using them regardless. I am currently experimenting with Roam Research which would also fall into that category. Lastly, I did not include my podcast setup since it was a one-time purchase but it is worth noting that it only cost me $99 and works perfectly.
+
+All in all, my recurring costs to maintain Blog of Jake and Pod of Jake are $21.75 / month.
+
+Amazing how much of this can be done for free / cheap.

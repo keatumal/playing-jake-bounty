@@ -1,0 +1,7 @@
+# Tesla
+
+Below is another short essay that I wrote for an application to a VC firm before my trip to Israel. It is about Tesla and specifically the potential of its full self-driving software. The company's stock has been on an absolute tear since I last bought shares at $212.87 on 8/23/2019. In the four and a half months since then, the stock has increased over 131% as of today's close at $492.14. Unfortunately for me and my bank account, I no longer own those shares.
+
+_**What’s a news story or trend you’ve been obsessed with, following closely, or can’t look away from and why? (150 words max)**_
+
+I have become increasingly captivated by Tesla’s story over the last five years. As you well know, Tesla has thus far survived strong and continuous opposition from entrenched interests including auto dealerships, incumbent automakers, and big oil. Tesla’s impending deployment of its full self-driving software will give hundreds of thousands of existing Tesla owners the ability to let their cars earn money as part of the “robotaxi fleet”. These cars will win on safety (10x fewer accidents than average drivers), price (5-10x less per mile than Uber), and availability (cars do not sleep). Taxi and Uber drivers will have a common enemy. Auto insurers could join the battle. Tesla is scheduled to release its semi in 2020 and the Truckers Union is taking swings on deck. Millions of lives, more people’s livelihoods, and massive industries are at stake. I will be following closely to see how it all plays out.
