@@ -37,7 +37,9 @@
 
 Два раза OpenAI выдавал ошибку, но на третью попытку процесс завершился за 9 минут. Скриншот результатов:
 
-[[file:images/fine_tuning_attempt_1.png][Первая попытка файн-тюнинга]]
+#+caption: Первая попытка файн-тюнинга
+#+name: fig:fine-tuning-atttempt-1
+[[file:images/fine_tuning_attempt_1.png]]
 
 Примеры генерации можно найти в директории [[file:data/result_examples/attempt_1/][data/result_examples/attempt_1]].
 
@@ -53,7 +55,9 @@
 
 Файн-тюнинг длился 20 минут, на этот раз с первой попытки. Результаты на скриншоте:
 
-[[file:images/fine_tuning_attempt_2.png][Вторая попытка файн-тюнинга]]
+#+caption: Вторая попытка файн-тюнинга
+#+name: fig:fine-tuning-atttempt-2
+[[file:images/fine_tuning_attempt_2.png]]
 
 Примеры генерации в директории [[file:data/result_examples/attempt_2/][data/result_examples/attempt_2]].
 

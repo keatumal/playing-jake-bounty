@@ -37,7 +37,9 @@ I selected 100 random posts for the training dataset and 75 posts for testing. S
 
 OpenAI returned errors twice, but the process completed on the third attempt in 9 minutes. Screenshot of the results:
 
-[[file:images/fine_tuning_attempt_1.png][First Fine-Tuning Attempt]]
+#+caption: [[file:images/fine_tuning_attempt_1.png][First Fine-Tuning Attempt]]
+#+name: fig:fine-tuning-atttempt-1
+[[file:images/fine_tuning_attempt_1.png]]
 
 Examples of generated content can be found in the [[file:data/result_examples/attempt_1/][data/result_examples/attempt_1]] directory.
 
@@ -53,7 +55,9 @@ This time, I used all articles, allocating 223 for training and 25 for testing. 
 
 The fine-tuning process lasted 20 minutes and succeeded on the first attempt. Results screenshot:
 
-[[file:images/fine_tuning_attempt_2.png][Second Fine-Tuning Attempt]]
+#+caption: [[file:images/fine_tuning_attempt_1.png][Second Fine-Tuning Attempt]]
+#+name: fig:fine-tuning-atttempt-2
+[[file:images/fine_tuning_attempt_2.png]]
 
 Generated examples are available in the [[file:data/result_examples/attempt_2/][data/result_examples/attempt_2]] directory.
 
